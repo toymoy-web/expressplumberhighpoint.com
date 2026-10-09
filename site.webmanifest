@@ -1,0 +1,14 @@
+{
+  "name": "High Point Express Plumbing",
+  "short_name": "HP Express",
+  "description": "24/7 emergency plumber for High Point, NC and nearby towns.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#FFFFFF",
+  "theme_color": "#C21A6B",
+  "icons": [
+    {"src": "/img/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "/img/android-chrome-512x512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "/img/maskable-512x512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
