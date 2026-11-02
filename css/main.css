@@ -357,3 +357,9 @@ main :is(h2,h3,h4):has(+p){margin-bottom:14px}
 .side-link{display:inline-block;margin-top:12px;color:var(--volt);font-weight:800;font-size:15px;text-decoration:underline}
 .side-link:hover{color:#fff}
 .localnote{background:var(--soft)}
+
+/* footer social links */
+.footer-social{display:flex;flex-wrap:wrap;align-items:center;gap:8px 14px;margin-top:14px}
+.footer-social-label{font-weight:800;color:var(--ink);font-size:14px}
+.site-footer .footer-social a{display:inline-block;margin:0;font-weight:700;color:var(--berry-d);text-decoration:underline}
+.site-footer .footer-social a:hover{color:var(--berry)}
